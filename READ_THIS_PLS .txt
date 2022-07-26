@@ -1,0 +1,9 @@
+This is not related to AI in any sense.
+But, this is the first ever proper project I've made.
+I have Included this becaause this is in python.
+
+HOW to run:
+the main file to run is alien_invasion.py
+==> All the other files just have nesscary classes for the games to work
+==> It may not work few times on other systems some times because I have used pycharm to make this ,so it may miss some essentials.
+==> pls forgive me for any mistakes because it is the first ever time I have created a repository to share my code.
